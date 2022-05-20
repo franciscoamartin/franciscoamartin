@@ -2,7 +2,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-franciscoamartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscoamartin/)](https://www.linkedin.com/in/franciscoamartin/) [![Twitter Badge](https://img.shields.io/badge/-@fmartin_br-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fmartin_br
 )](https://twitter.com/fmartin_br)
-[![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://franciscomartin.com.br)](https://franciscomartin.com.br)
+[![DEV Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=dev.to&logoColor=white&link=https://franciscoamartin.github.io)](https://franciscoamartin.github.io)
 [![DEV Badge](https://img.shields.io/badge/-MarketingX-1E9?style=flat-square&logo=dev.to&logoColor=white&link=https://marketingexe.com.br)](https://marketingexe.com.br)
 [![Gmail Badge](https://img.shields.io/badge/-franciscoaugustomartin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciscoaugustomartin@gmail.com)](mailto:franciscoaugustomartin@gmail.com)
 
